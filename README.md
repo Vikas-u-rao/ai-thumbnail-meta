@@ -85,7 +85,7 @@ Try the app on Hugging Face Spaces: [https://huggingface.co/spaces/VikasURao/AI-
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ai-thumbnail-generator.git
+git clone https://github.com/Vikas-u-rao/ai-thumbnail-meta.git
 cd ai-thumbnail-generator
 ```
 
@@ -290,7 +290,7 @@ We welcome contributions! Here's how to get started:
 ### Development Setup
 
 ```bash
-git clone https://github.com/yourusername/ai-thumbnail-generator.git
+git clone https://github.com/Vikas-u-rao/ai-thumbnail-meta.git
 cd ai-thumbnail-generator
 pip install -r requirements.txt
 export HF_TOKEN="your_token"
@@ -333,5 +333,6 @@ json_data = create_download_data(topic, metadata, thumb1, thumb2, selected)
 - [ ] **Analytics integration**
 
 ---
+
 
 
