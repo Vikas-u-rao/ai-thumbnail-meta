@@ -72,7 +72,7 @@ python main.py
 
 ## 🚀 Live Demo
 
-Try the app on Hugging Face Spaces: [Your Space URL Here]
+Try the app on Hugging Face Spaces: [https://huggingface.co/spaces/VikasURao/AI-Thumbnail-Metadata-Generator]
 
 ## 🛠️ Installation & Setup
 
@@ -315,9 +315,6 @@ image_with_text = add_text_overlay(image, title_text, style="bold")
 json_data = create_download_data(topic, metadata, thumb1, thumb2, selected)
 ```
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -327,24 +324,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [HuggingFace H4](https://huggingface.co/HuggingFaceH4) for the Zephyr model
 - [Mistral AI](https://mistral.ai/) for the Mistral language model
 
-## 📞 Support & Community
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ai-thumbnail-generator/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ai-thumbnail-generator/discussions)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
-- **Email**: your-email@example.com
 
 ## 🏆 Features Roadmap
 
-- [ ] **Video preview generation**
 - [ ] **Batch processing for multiple topics**
 - [ ] **Custom style training**
 - [ ] **A/B testing for thumbnails**
 - [ ] **Analytics integration**
-- [ ] **Mobile app version**
 
 ---
 
-⭐ **If you find this project helpful, please give it a star on GitHub!** ⭐
 
-**Built with ❤️ for the creator community**
